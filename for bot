@@ -1,0 +1,12 @@
+
+    '''def add_income(self, category, amount):
+        if category not in self.income:
+            self.income[category] = amount
+        else:
+            self.income[category] += amount
+
+    def add_expense(self, category, amount):
+        if category not in self.income:
+            self.income[category] += amount
+        else:
+            logging.info("Such a category of expenses does not exist")'''
