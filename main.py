@@ -76,7 +76,7 @@ class MyTelegramBot:
                                         "Get expense in the last week: /get_expense_in_last_week\n"
                                         "Get expense in the last month: /get_expense_in_last_month\n"
                                         "Get all expense: /get_all_expense\n"
-                                        "Delete expense: /delete_expense <category> <amount>\n"
+                                        "Delete expense: /remove_expense <category> <amount>\n"
                                         "Delete income: /delete_income <category> <amount>\n"
                                         "Category expense stats: /category_expense_stats <category> <period>\n"
                                         "Category income stats: /category_income_stats <category> <period>\n"
